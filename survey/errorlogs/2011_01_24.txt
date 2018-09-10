@@ -1,0 +1,8 @@
+1/24/2011 3:26:31 PM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.Page_Load(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 28
+ 

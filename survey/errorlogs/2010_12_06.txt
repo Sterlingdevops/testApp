@@ -1,0 +1,51 @@
+12/6/2010 1:56:27 PM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/6/2010 2:03:18 PM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.proceed_Click(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 134
+ 
+12/6/2010 2:04:07 PM : Always: 100
+Rarely: 25
+Regulary :75People: 0.2
+Process: 0.6
+Comm:0.2
+ 
+12/6/2010 2:04:07 PM : Max Value for exxcellent :4
+ 
+12/6/2010 2:04:07 PM : Know :3 hELPFUL:1 Courteous: 1Total in  People:  5
+Total in Proces:  6
+Total in COMM:  10
+ People Ratio:  0.416666666666667
+ Process Ratio:  0.5
+ Comm Ratio:  0.833333333333333
+ People Percentage:  5.83333333333333
+ Process Percentage:  21
+ Comm Percentage:  11.6666666666667
+
+ 
+12/6/2010 2:28:22 PM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/6/2010 3:09:40 PM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 

@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="login.master.cs" Inherits="login" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Internal Survey</title>
+     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="pragma" content="no-cache"/>
+<meta http-equiv="Page-Enter" content="progid:DXImageTransform.Microsoft.gradientWipe(duration=15)"/>
+    <link rel="stylesheet" type="text/css" href="css/all.css">
+    <link type="text/css" rel="stylesheet" href="css/jquery-ui.css" />
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="js/ajax.js"></script>
+    <script type="text/javascript" src="js/all.js"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+      <div id="page">
+    	<div id="banner">
+    	
+    	<div id="bxNav">  
+  <div class="navrite"></div>
+  <div class="navmid"><a href="logout.aspx">Logout</a></div>
+  <div class="navspacer"></div>
+   <div class="navmid"><a href="myprofile.aspx">My Profile</a></div>  
+    <div class="navspacer"></div>
+  <div class="navmid"><a href="default.aspx">Home</a></div>
+  <div class="navleft"></div>  
+</div>
+    	</div>
+		<div id="containerlogin" style="width: 1007px">
+		      <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+        </asp:contentplaceholder>
+        
+		</div>
+ 
+    </div>
+   <div id="bxFoot"><a href="admin/Default.aspx">Admin</a><br />
+Copyright &copy; 2012 Sterling Bank Plc</div>
+    </form>
+</body>
+</html>

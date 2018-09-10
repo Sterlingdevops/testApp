@@ -1,0 +1,508 @@
+12/7/2010 6:51:38 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/7/2010 6:52:09 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.proceed_Click(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 134
+ 
+12/7/2010 6:52:28 AM : Always: 100
+Rarely: 25
+Regulary :75People: 0.2
+Process: 0.6
+Comm:0.2
+ 
+12/7/2010 6:52:28 AM : Max Value for exxcellent :4
+ 
+12/7/2010 6:52:28 AM : Know :4 hELPFUL:4 Courteous: 4Total in  People:  12
+Total in Proces:  8
+Total in COMM:  10
+ People Ratio:  1
+ Process Ratio:  0.666666666666667
+ Comm Ratio:  0.833333333333333
+ People Percentage:  20
+ Process Percentage:  40
+ Comm Percentage:  16.6666666666667
+
+ 
+12/7/2010 6:54:29 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.proceed_Click(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 134
+ 
+12/7/2010 6:54:53 AM : Always: 100
+Rarely: 25
+Regulary :75People: 0.2
+Process: 0.6
+Comm:0.2
+ 
+12/7/2010 6:54:53 AM : Max Value for exxcellent :4
+ 
+12/7/2010 6:54:53 AM : Know :3 hELPFUL:3 Courteous: 2Total in  People:  8
+Total in Proces:  6
+Total in COMM:  5
+ People Ratio:  0.666666666666667
+ Process Ratio:  0.5
+ Comm Ratio:  0.416666666666667
+ People Percentage:  13.3333333333333
+ Process Percentage:  30
+ Comm Percentage:  8.33333333333333
+
+ 
+12/7/2010 7:19:18 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.proceed_Click(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 133
+ 
+12/7/2010 7:22:05 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/7/2010 7:26:51 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.proceed_Click(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 133
+ 
+12/7/2010 7:27:11 AM : Always: 100
+Rarely: 25
+Regulary :75People: 0.2
+Process: 0.6
+Comm:0.2
+ 
+12/7/2010 7:27:11 AM : Max Value for exxcellent :4
+ 
+12/7/2010 7:27:11 AM : Know :4 hELPFUL:3 Courteous: 1Total in  People:  8
+Total in Proces:  8
+Total in COMM:  8
+ People Ratio:  0.666666666666667
+ Process Ratio:  0.666666666666667
+ Comm Ratio:  0.666666666666667
+ People Percentage:  13.3333333333333
+ Process Percentage:  40
+ Comm Percentage:  13.3333333333333
+
+ 
+12/7/2010 7:30:43 AM : Always: 100
+Rarely: 25
+Regulary :75People: 0.2
+Process: 0.6
+Comm:0.2
+ 
+12/7/2010 7:30:43 AM : Max Value for exxcellent :4
+ 
+12/7/2010 7:30:43 AM : Know :4 hELPFUL:3 Courteous: 1Total in  People:  8
+Total in Proces:  8
+Total in COMM:  8
+ People Ratio:  0.666666666666667
+ Process Ratio:  0.666666666666667
+ Comm Ratio:  0.666666666666667
+ People Percentage:  13.3333333333333
+ Process Percentage:  40
+ Comm Percentage:  13.3333333333333
+
+ 
+12/7/2010 7:31:13 AM : Always: 100
+Rarely: 25
+Regulary :75People: 0.2
+Process: 0.6
+Comm:0.2
+ 
+12/7/2010 7:31:13 AM : Max Value for exxcellent :4
+ 
+12/7/2010 7:31:13 AM : Know :4 hELPFUL:3 Courteous: 1Total in  People:  8
+Total in Proces:  8
+Total in COMM:  8
+ People Ratio:  0.666666666666667
+ Process Ratio:  0.666666666666667
+ Comm Ratio:  0.666666666666667
+ People Percentage:  13.3333333333333
+ Process Percentage:  40
+ Comm Percentage:  13.3333333333333
+
+ 
+12/7/2010 7:38:29 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/7/2010 7:39:31 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/7/2010 7:53:00 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/7/2010 7:53:49 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/7/2010 7:54:35 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/7/2010 7:55:51 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/7/2010 7:56:00 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.proceed_Click(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 133
+ 
+12/7/2010 7:56:20 AM : Always: 100
+Rarely: 25
+Regulary :75People: 0.2
+Process: 0.6
+Comm:0.2
+ 
+12/7/2010 7:56:20 AM : Max Value for exxcellent :4
+ 
+12/7/2010 7:56:20 AM : Know :3 hELPFUL:2 Courteous: 0Total in  People:  5
+Total in Proces:  7
+Total in COMM:  7
+ People Ratio:  0.416666666666667
+ Process Ratio:  0.583333333333333
+ Comm Ratio:  0.583333333333333
+ People Percentage:  8.33333333333333
+ Process Percentage:  35
+ Comm Percentage:  11.6666666666667
+
+ 
+12/7/2010 8:07:39 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/7/2010 8:11:20 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/7/2010 8:12:02 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/7/2010 8:12:45 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.proceed_Click(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 133
+ 
+12/7/2010 8:13:21 AM : Always: 100
+Rarely: 25
+Regulary :75People: 0.2
+Process: 0.6
+Comm:0.2
+ 
+12/7/2010 8:13:21 AM : Max Value for exxcellent :4
+ 
+12/7/2010 8:13:21 AM : Know :4 hELPFUL:4 Courteous: 4Total in  People:  12
+Total in Proces:  6
+Total in COMM:  7
+ People Ratio:  1
+ Process Ratio:  0.5
+ Comm Ratio:  0.583333333333333
+ People Percentage:  2
+ Process Percentage:  3
+ Comm Percentage:  1.16666666666667
+
+ 
+12/7/2010 8:14:15 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/7/2010 8:14:20 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.proceed_Click(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 133
+ 
+12/7/2010 8:14:45 AM : Always: 100
+Rarely: 25
+Regulary :75People: 0.2
+Process: 0.6
+Comm:0.2
+ 
+12/7/2010 8:14:45 AM : Max Value for exxcellent :4
+ 
+12/7/2010 8:14:45 AM : Know :2 hELPFUL:3 Courteous: 4Total in  People:  9
+Total in Proces:  10
+Total in COMM:  11
+ People Ratio:  0.75
+ Process Ratio:  0.833333333333333
+ Comm Ratio:  0.916666666666667
+ People Percentage:  10.5
+ Process Percentage:  35
+ Comm Percentage:  12.8333333333333
+
+ 
+12/7/2010 8:14:58 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/7/2010 8:22:50 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.proceed_Click(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 133
+ 
+12/7/2010 8:23:30 AM : Always: 100
+Rarely: 25
+Regulary :75People: 0.2
+Process: 0.6
+Comm:0.2
+ 
+12/7/2010 8:23:31 AM : Max Value for exxcellent :4
+ 
+12/7/2010 8:23:31 AM : Know :3 hELPFUL:3 Courteous: 4Total in  People:  10
+Total in Proces:  12
+Total in COMM:  11
+ People Ratio:  0.833333333333333
+ Process Ratio:  1
+ Comm Ratio:  0.916666666666667
+ People Percentage:  11.6666666666667
+ Process Percentage:  42
+ Comm Percentage:  12.8333333333333
+
+ 
+12/7/2010 8:24:50 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.proceed_Click(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 133
+ 
+12/7/2010 8:25:22 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.proceed_Click(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 133
+ 
+12/7/2010 8:25:44 AM : Always: 100
+Rarely: 25
+Regulary :75People: 0.2
+Process: 0.6
+Comm:0.2
+ 
+12/7/2010 8:25:44 AM : Max Value for exxcellent :4
+ 
+12/7/2010 8:25:44 AM : Know :4 hELPFUL:4 Courteous: 4Total in  People:  12
+Total in Proces:  7
+Total in COMM:  8
+ People Ratio:  1
+ Process Ratio:  0.583333333333333
+ Comm Ratio:  0.666666666666667
+ People Percentage:  14
+ Process Percentage:  24.5
+ Comm Percentage:  9.33333333333333
+
+ 
+12/7/2010 8:25:56 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.proceed_Click(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 133
+ 
+12/7/2010 8:26:20 AM : Always: 100
+Rarely: 25
+Regulary :75People: 0.2
+Process: 0.6
+Comm:0.2
+ 
+12/7/2010 8:26:20 AM : Max Value for exxcellent :4
+ 
+12/7/2010 8:26:20 AM : Know :2 hELPFUL:2 Courteous: 2Total in  People:  6
+Total in Proces:  9
+Total in COMM:  8
+ People Ratio:  0.5
+ Process Ratio:  0.75
+ Comm Ratio:  0.666666666666667
+ People Percentage:  7
+ Process Percentage:  31.5
+ Comm Percentage:  9.33333333333333
+
+ 
+12/7/2010 8:29:23 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.Page_Load(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 28
+ 
+12/7/2010 12:09:48 PM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/7/2010 12:26:27 PM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/7/2010 2:16:44 PM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/7/2010 2:21:16 PM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/7/2010 2:21:47 PM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.proceed_Click(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 133
+ 
+12/7/2010 2:23:12 PM : Always: 100
+Rarely: 25
+Regulary :75People: 0.2
+Process: 0.6
+Comm:0.2
+ 
+12/7/2010 2:23:12 PM : Max Value for exxcellent :4
+ 
+12/7/2010 2:23:12 PM : Know :1 hELPFUL:1 Courteous: 0Total in  People:  2
+Total in Proces:  4
+Total in COMM:  4
+ People Ratio:  0.166666666666667
+ Process Ratio:  0.333333333333333
+ Comm Ratio:  0.333333333333333
+ People Percentage:  0.333333333333333
+ Process Percentage:  2
+ Comm Percentage:  0.666666666666667
+
+ 
+12/7/2010 2:45:42 PM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/7/2010 2:45:59 PM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.proceed_Click(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 133
+ 
+12/7/2010 2:51:48 PM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/7/2010 3:40:52 PM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/7/2010 4:55:40 PM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 

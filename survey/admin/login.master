@@ -1,0 +1,37 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="login.master.cs" Inherits="login" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Internal Survey</title>
+    <link rel="stylesheet" type="text/css" href="../css/all.css">
+    <link type="text/css" rel="stylesheet" href="../css/jquery-ui.css" />
+    <script type="text/javascript" src="../js/jquery.min.js"></script>
+<script type="text/javascript" src="../js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="../js/ajax.js"></script>
+    <script type="text/javascript" src="../js/all.js"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+      <div id="page">
+    	<div id="banner">
+    	
+    	<div id="bxNav">  
+  <div class="navspacer"></div>
+   <div class="navmid"><a href="menu.aspx">Menu</a></div>  
+    <div class="navspacer"></div>
+  <div class="navmid"><a href="../myprofile.aspx">Home</a></div>
+  <div class="navleft"></div>  
+</div>
+    	</div>
+		<div id="containerlogin" style="width: 1203px">
+		      <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+        </asp:contentplaceholder>
+		</div>
+		<div id="bxFoot"><a href="Default.aspx">Admin</a><br />
+Copyright &copy; 2012 Sterling Bank Plc</div>
+    </div>
+    </form>
+</body>
+</html>

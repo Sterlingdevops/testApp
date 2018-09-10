@@ -1,0 +1,94 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="home.master.cs" Inherits="home" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Untitled Page</title>
+     <link rel="stylesheet" type="text/css" href="css/home.css">
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="pragma" content="no-cache"/>
+<meta http-equiv="Page-Enter" content="progid:DXImageTransform.Microsoft.gradientWipe(duration=15)"/>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="page">
+    	<div id="banner">
+    	
+    	<div id="bxNav">  
+  <div class="navspacer"></div>
+  <div class="navmid"><a href="#">Users Guide</a></div>  
+  <div class="navspacer"></div>
+       <div class="navmid"><a href="myprofile.aspx">My Profile</a></div>  
+    <div class="navspacer"></div>
+  <div class="navmid"><a href="default.aspx">Home</a></div>
+  <div class="navleft"></div>  
+</div>
+    	</div>
+		<div id="container">
+		<div id="container1">
+		            <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+        </asp:contentplaceholder>
+        </div>
+        <div id="container2">
+         <asp:HyperLink ID="HyperLink1" runat="server" ImageUrl="~/images/loginIcond.jpg"
+        NavigateUrl="~/login.aspx">HyperLink</asp:HyperLink>
+            <table width="100%" border="1" class="mytbl">
+  <tr>
+    <td>
+       <h2> Objective</h2></td>
+  </tr>
+  <tr>
+    <td>The  prime goal of the Internal Customer Satisfaction Survey is to create an outstanding service culture
+        <br />
+        <br />
+        The survey aims to gain focus on our service behavior performance, identify weak areas and strive for excellence. 
+
+</td>
+  </tr>
+  <tr>
+    <td><h2>Integration with individual performance appraisal </h2></td>
+  </tr>
+  <tr>
+    <td>
+        The rating is team-based.
+        <br />
+        <br />
+        Workgroup ratings will then become the individuals rating in the half year appraisal
+    </td>
+  </tr>
+                <tr>
+                    <td>
+                    <h2>Definitions:</h2>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Group (Appraisee) – this is the service providing group being appraised. 
+                        <br />
+                        <br />
+                       Appraiser -  members of staff receiving services from the workgroup
+
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <h2>Who is appraising whom</h2>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                       Groups all have internal customers whose capacity to achieve business/functional objectives and satisfy both external and other internal customers is dependant on the quality/level of service and service behaviours of internal service providers
+
+                    </td>
+                </tr>
+</table>
+
+        </div>   
+		</div>
+    </div>
+	<div id="bxFoot"><a href="admin/default.aspx">Admin</a><br />
+Copyright &copy; 2012 Sterling Bank Plc<br />
+    </div>
+    </form>
+</body>
+</html>

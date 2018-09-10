@@ -1,0 +1,221 @@
+12/11/2010 11:24:31 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/11/2010 11:25:57 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.proceed_Click(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 131
+ 
+12/11/2010 11:30:32 AM : Always: 100
+Rarely: 25
+Regulary :75People: 0.2
+Process: 0.6
+Comm:0.2
+ 
+12/11/2010 11:30:32 AM : Max Value for exxcellent :4
+ 
+12/11/2010 11:30:32 AM : Know :1 hELPFUL:2 Courteous: 1Total in  People:  4
+Total in Proces:  3
+Total in COMM:  2
+ People Ratio:  0.333333333333333
+ Process Ratio:  0.25
+ Comm Ratio:  0.166666666666667
+ People Percentage:  4.66666666666667
+ Process Percentage:  10.5
+ Comm Percentage:  2.33333333333333
+
+ 
+12/11/2010 11:32:40 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.proceed_Click(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 131
+ 
+12/11/2010 11:37:35 AM : Always: 100
+Rarely: 25
+Regulary :75People: 0.2
+Process: 0.6
+Comm:0.2
+ 
+12/11/2010 11:37:35 AM : Max Value for exxcellent :4
+ 
+12/11/2010 11:37:35 AM : Know :2 hELPFUL:2 Courteous: 0Total in  People:  4
+Total in Proces:  4
+Total in COMM:  3
+ People Ratio:  0.333333333333333
+ Process Ratio:  0.333333333333333
+ Comm Ratio:  0.25
+ People Percentage:  0.666666666666667
+ Process Percentage:  2
+ Comm Percentage:  0.5
+
+ 
+12/11/2010 11:38:28 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.proceed_Click(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 131
+ 
+12/11/2010 11:52:17 AM : Always: 100
+Rarely: 25
+Regulary :75People: 0.2
+Process: 0.6
+Comm:0.2
+ 
+12/11/2010 11:52:17 AM : Max Value for exxcellent :4
+ 
+12/11/2010 11:52:17 AM : Know :1 hELPFUL:2 Courteous: 0Total in  People:  3
+Total in Proces:  3
+Total in COMM:  4
+ People Ratio:  0.25
+ Process Ratio:  0.25
+ Comm Ratio:  0.333333333333333
+ People Percentage:  3.5
+ Process Percentage:  10.5
+ Comm Percentage:  4.66666666666667
+
+ 
+12/11/2010 11:54:28 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.proceed_Click(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 131
+ 
+12/11/2010 11:57:55 AM : Always: 100
+Rarely: 25
+Regulary :75People: 0.2
+Process: 0.6
+Comm:0.2
+ 
+12/11/2010 11:57:55 AM : Max Value for exxcellent :4
+ 
+12/11/2010 11:57:55 AM : Know :3 hELPFUL:2 Courteous: 2Total in  People:  7
+Total in Proces:  8
+Total in COMM:  7
+ People Ratio:  0.583333333333333
+ Process Ratio:  0.666666666666667
+ Comm Ratio:  0.583333333333333
+ People Percentage:  8.16666666666667
+ Process Percentage:  28
+ Comm Percentage:  8.16666666666667
+
+ 
+12/11/2010 11:59:36 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.proceed_Click(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 131
+ 
+12/11/2010 12:03:25 PM : Always: 100
+Rarely: 25
+Regulary :75People: 0.2
+Process: 0.6
+Comm:0.2
+ 
+12/11/2010 12:03:25 PM : Max Value for exxcellent :4
+ 
+12/11/2010 12:03:25 PM : Know :2 hELPFUL:1 Courteous: 1Total in  People:  4
+Total in Proces:  5
+Total in COMM:  3
+ People Ratio:  0.333333333333333
+ Process Ratio:  0.416666666666667
+ Comm Ratio:  0.25
+ People Percentage:  4.66666666666667
+ Process Percentage:  17.5
+ Comm Percentage:  3.5
+
+ 
+12/11/2010 1:16:44 PM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/11/2010 1:17:42 PM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.proceed_Click(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 131
+ 
+12/11/2010 1:23:52 PM : Always: 100
+Rarely: 25
+Regulary :75People: 0.2
+Process: 0.6
+Comm:0.2
+ 
+12/11/2010 1:23:52 PM : Max Value for exxcellent :4
+ 
+12/11/2010 1:23:52 PM : Know :2 hELPFUL:2 Courteous: 1Total in  People:  5
+Total in Proces:  4
+Total in COMM:  5
+ People Ratio:  0.416666666666667
+ Process Ratio:  0.333333333333333
+ Comm Ratio:  0.416666666666667
+ People Percentage:  5.83333333333333
+ Process Percentage:  14
+ Comm Percentage:  5.83333333333333
+
+ 
+12/11/2010 1:56:54 PM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.Page_Load(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 28
+ 
+12/11/2010 1:57:29 PM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 64
+ 
+12/11/2010 1:57:51 PM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.proceed_Click(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 131
+ 
+12/11/2010 2:20:15 PM : Always: 100
+Rarely: 25
+Regulary :75People: 0.2
+Process: 0.6
+Comm:0.2
+ 
+12/11/2010 2:20:15 PM : Max Value for exxcellent :4
+ 
+12/11/2010 2:20:15 PM : Know :4 hELPFUL:3 Courteous: 3Total in  People:  10
+Total in Proces:  10
+Total in COMM:  11
+ People Ratio:  0.833333333333333
+ Process Ratio:  0.833333333333333
+ Comm Ratio:  0.916666666666667
+ People Percentage:  16.6666666666667
+ Process Percentage:  50
+ Comm Percentage:  18.3333333333333
+
+ 

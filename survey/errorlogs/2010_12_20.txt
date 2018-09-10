@@ -1,0 +1,64 @@
+12/20/2010 7:05:40 AM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 65
+ 
+12/20/2010 7:06:33 AM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at login.Page_Load(Object sender, EventArgs e) in c:\survey\admin\login.master.cs:line 21
+ 
+12/20/2010 7:06:54 AM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at login.Page_Load(Object sender, EventArgs e) in c:\survey\admin\login.master.cs:line 21
+ 
+12/20/2010 7:07:25 AM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at login.Page_Load(Object sender, EventArgs e) in c:\survey\admin\login.master.cs:line 21
+ 
+12/20/2010 2:01:21 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at login.Page_Load(Object sender, EventArgs e) in c:\survey\admin\login.master.cs:line 21
+ 
+12/20/2010 2:01:43 PM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 65
+ 
+12/20/2010 2:12:14 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at login.Page_Load(Object sender, EventArgs e) in c:\survey\admin\login.master.cs:line 21
+ 
+12/20/2010 6:11:52 PM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at myprofile.Page_Load(Object sender, EventArgs e) in c:\survey\myprofile.aspx.cs:line 28
+ 
+12/20/2010 6:12:03 PM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 65
+ 
+12/20/2010 6:12:13 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at login.Page_Load(Object sender, EventArgs e) in c:\survey\admin\login.master.cs:line 21
+ 
+12/20/2010 6:33:09 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at login.Page_Load(Object sender, EventArgs e) in c:\survey\admin\login.master.cs:line 21
+ 
+12/20/2010 6:33:19 PM : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at login.btnLogin_Click(Object sender, EventArgs e) in c:\survey\login.aspx.cs:line 65
+ 
+12/20/2010 6:43:30 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at login.Page_Load(Object sender, EventArgs e) in c:\survey\admin\login.master.cs:line 21
+ 
